@@ -4,7 +4,7 @@
 
 ## Демонстрация
 
-![demo](assets/demo.mp4)
+![demo](assets/demo.gif)
 
 ## Зависимости
 
